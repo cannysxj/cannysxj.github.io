@@ -1,4 +1,4 @@
-const CACHE_NAME = 'canny-traffic-v1';
+const CACHE_NAME = 'canny-traffic-v2';
 const urlsToCache = [
   './',
   './index.html',
