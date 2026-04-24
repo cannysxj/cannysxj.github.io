@@ -3,7 +3,7 @@
 // 每次更新时修改 CACHE_VERSION，浏览器会自动获取新版本
 // ============================================
 
-const CACHE_VERSION = 'v2';  // ← 每次更新 index.html 时，把这个版本号+1
+const CACHE_VERSION = 'v3';  // ← 每次更新 index.html 时，把这个版本号+1
 const CACHE_NAME = `canny-cache-${CACHE_VERSION}`;
 
 // 需要缓存的核心文件列表
